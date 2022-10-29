@@ -1,4 +1,3 @@
-package Gloria_HW2;
 import java.util.*;
 
 public class Converter extends ParserHelper {
